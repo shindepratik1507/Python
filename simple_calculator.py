@@ -1,4 +1,4 @@
-# Simple Calculator in Python
+# Simple calculator Arithmetic operations in Python
 
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
