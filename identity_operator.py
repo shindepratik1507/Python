@@ -1,4 +1,4 @@
-#identify operator
+#identity operator
 #IS,NOT IS
 x = (1, 2, 3)
 y = (1, 2, 3)
